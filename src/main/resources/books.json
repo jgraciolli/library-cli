@@ -1,0 +1,651 @@
+[
+  {
+    "id": 1,
+    "title": "The Hobbit",
+    "author": "J. R. R. Tolkien",
+    "genre": "FANTASY",
+    "publicationYear": 1937,
+    "borrowed": false
+  },
+  {
+    "id": 2,
+    "title": "The Fellowship of the Ring",
+    "author": "J. R. R. Tolkien",
+    "genre": "FANTASY",
+    "publicationYear": 1954,
+    "borrowed": false
+  },
+  {
+    "id": 3,
+    "title": "The Two Towers",
+    "author": "J. R. R. Tolkien",
+    "genre": "FANTASY",
+    "publicationYear": 1954,
+    "borrowed": false
+  },
+  {
+    "id": 4,
+    "title": "The Return of the King",
+    "author": "J. R. R. Tolkien",
+    "genre": "FANTASY",
+    "publicationYear": 1955,
+    "borrowed": false
+  },
+  {
+    "id": 5,
+    "title": "Harry Potter and the Philosopher's Stone",
+    "author": "J. K. Rowling",
+    "genre": "FANTASY",
+    "publicationYear": 1997,
+    "borrowed": false
+  },
+  {
+    "id": 6,
+    "title": "Harry Potter and the Chamber of Secrets",
+    "author": "J. K. Rowling",
+    "genre": "FANTASY",
+    "publicationYear": 1998,
+    "borrowed": false
+  },
+  {
+    "id": 7,
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "author": "J. K. Rowling",
+    "genre": "FANTASY",
+    "publicationYear": 1999,
+    "borrowed": false
+  },
+  {
+    "id": 8,
+    "title": "Harry Potter and the Goblet of Fire",
+    "author": "J. K. Rowling",
+    "genre": "FANTASY",
+    "publicationYear": 2000,
+    "borrowed": false
+  },
+  {
+    "id": 9,
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "genre": "SCIENCE_FICTION",
+    "publicationYear": 1965,
+    "borrowed": false
+  },
+  {
+    "id": 10,
+    "title": "Dune Messiah",
+    "author": "Frank Herbert",
+    "genre": "SCIENCE_FICTION",
+    "publicationYear": 1969,
+    "borrowed": false
+  },
+  {
+    "id": 11,
+    "title": "Children of Dune",
+    "author": "Frank Herbert",
+    "genre": "SCIENCE_FICTION",
+    "publicationYear": 1976,
+    "borrowed": false
+  },
+  {
+    "id": 12,
+    "title": "Foundation",
+    "author": "Isaac Asimov",
+    "genre": "SCIENCE_FICTION",
+    "publicationYear": 1951,
+    "borrowed": false
+  },
+  {
+    "id": 13,
+    "title": "I, Robot",
+    "author": "Isaac Asimov",
+    "genre": "SCIENCE_FICTION",
+    "publicationYear": 1950,
+    "borrowed": false
+  },
+  {
+    "id": 14,
+    "title": "Neuromancer",
+    "author": "William Gibson",
+    "genre": "SCIENCE_FICTION",
+    "publicationYear": 1984,
+    "borrowed": false
+  },
+  {
+    "id": 15,
+    "title": "The Martian",
+    "author": "Andy Weir",
+    "genre": "SCIENCE_FICTION",
+    "publicationYear": 2011,
+    "borrowed": false
+  },
+  {
+    "id": 16,
+    "title": "Project Hail Mary",
+    "author": "Andy Weir",
+    "genre": "SCIENCE_FICTION",
+    "publicationYear": 2021,
+    "borrowed": false
+  },
+  {
+    "id": 17,
+    "title": "The Mysterious Affair at Styles",
+    "author": "Agatha Christie",
+    "genre": "MYSTERY",
+    "publicationYear": 1920,
+    "borrowed": false
+  },
+  {
+    "id": 18,
+    "title": "Murder on the Orient Express",
+    "author": "Agatha Christie",
+    "genre": "MYSTERY",
+    "publicationYear": 1934,
+    "borrowed": false
+  },
+  {
+    "id": 19,
+    "title": "Death on the Nile",
+    "author": "Agatha Christie",
+    "genre": "MYSTERY",
+    "publicationYear": 1937,
+    "borrowed": false
+  },
+  {
+    "id": 20,
+    "title": "The ABC Murders",
+    "author": "Agatha Christie",
+    "genre": "MYSTERY",
+    "publicationYear": 1936,
+    "borrowed": false
+  },
+  {
+    "id": 21,
+    "title": "The Girl with the Dragon Tattoo",
+    "author": "Stieg Larsson",
+    "genre": "MYSTERY",
+    "publicationYear": 2005,
+    "borrowed": false
+  },
+  {
+    "id": 22,
+    "title": "The Da Vinci Code",
+    "author": "Dan Brown",
+    "genre": "THRILLER",
+    "publicationYear": 2003,
+    "borrowed": false
+  },
+  {
+    "id": 23,
+    "title": "Angels & Demons",
+    "author": "Dan Brown",
+    "genre": "THRILLER",
+    "publicationYear": 2000,
+    "borrowed": false
+  },
+  {
+    "id": 24,
+    "title": "Inferno",
+    "author": "Dan Brown",
+    "genre": "THRILLER",
+    "publicationYear": 2013,
+    "borrowed": false
+  },
+  {
+    "id": 25,
+    "title": "Gone Girl",
+    "author": "Gillian Flynn",
+    "genre": "THRILLER",
+    "publicationYear": 2012,
+    "borrowed": false
+  },
+  {
+    "id": 26,
+    "title": "The Silent Patient",
+    "author": "Alex Michaelides",
+    "genre": "THRILLER",
+    "publicationYear": 2019,
+    "borrowed": false
+  },
+  {
+    "id": 27,
+    "title": "Dracula",
+    "author": "Bram Stoker",
+    "genre": "HORROR",
+    "publicationYear": 1897,
+    "borrowed": false
+  },
+  {
+    "id": 28,
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "genre": "HORROR",
+    "publicationYear": 1818,
+    "borrowed": false
+  },
+  {
+    "id": 29,
+    "title": "It",
+    "author": "Stephen King",
+    "genre": "HORROR",
+    "publicationYear": 1986,
+    "borrowed": false
+  },
+  {
+    "id": 30,
+    "title": "The Shining",
+    "author": "Stephen King",
+    "genre": "HORROR",
+    "publicationYear": 1977,
+    "borrowed": false
+  },
+  {
+    "id": 31,
+    "title": "Pet Sematary",
+    "author": "Stephen King",
+    "genre": "HORROR",
+    "publicationYear": 1983,
+    "borrowed": false
+  },
+  {
+    "id": 32,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "genre": "ROMANCE",
+    "publicationYear": 1813,
+    "borrowed": false
+  },
+  {
+    "id": 33,
+    "title": "Jane Eyre",
+    "author": "Charlotte Brontë",
+    "genre": "ROMANCE",
+    "publicationYear": 1847,
+    "borrowed": false
+  },
+  {
+    "id": 34,
+    "title": "Wuthering Heights",
+    "author": "Emily Brontë",
+    "genre": "ROMANCE",
+    "publicationYear": 1847,
+    "borrowed": false
+  },
+  {
+    "id": 35,
+    "title": "Me Before You",
+    "author": "Jojo Moyes",
+    "genre": "ROMANCE",
+    "publicationYear": 2012,
+    "borrowed": false
+  },
+  {
+    "id": 36,
+    "title": "The Notebook",
+    "author": "Nicholas Sparks",
+    "genre": "ROMANCE",
+    "publicationYear": 1996,
+    "borrowed": false
+  },
+  {
+    "id": 37,
+    "title": "Sapiens",
+    "author": "Yuval Noah Harari",
+    "genre": "HISTORY",
+    "publicationYear": 2011,
+    "borrowed": false
+  },
+  {
+    "id": 38,
+    "title": "Guns, Germs, and Steel",
+    "author": "Jared Diamond",
+    "genre": "HISTORY",
+    "publicationYear": 1997,
+    "borrowed": false
+  },
+  {
+    "id": 39,
+    "title": "The Silk Roads",
+    "author": "Peter Frankopan",
+    "genre": "HISTORY",
+    "publicationYear": 2015,
+    "borrowed": false
+  },
+  {
+    "id": 40,
+    "title": "Team of Rivals",
+    "author": "Doris Kearns Goodwin",
+    "genre": "HISTORY",
+    "publicationYear": 2005,
+    "borrowed": false
+  },
+  {
+    "id": 41,
+    "title": "The Wright Brothers",
+    "author": "David McCullough",
+    "genre": "HISTORY",
+    "publicationYear": 2015,
+    "borrowed": false
+  },
+  {
+    "id": 42,
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "genre": "PROGRAMMING",
+    "publicationYear": 2008,
+    "borrowed": false
+  },
+  {
+    "id": 43,
+    "title": "Clean Architecture",
+    "author": "Robert C. Martin",
+    "genre": "PROGRAMMING",
+    "publicationYear": 2017,
+    "borrowed": false
+  },
+  {
+    "id": 44,
+    "title": "Refactoring",
+    "author": "Martin Fowler",
+    "genre": "PROGRAMMING",
+    "publicationYear": 1999,
+    "borrowed": false
+  },
+  {
+    "id": 45,
+    "title": "Design Patterns",
+    "author": "Erich Gamma et al.",
+    "genre": "PROGRAMMING",
+    "publicationYear": 1994,
+    "borrowed": false
+  },
+  {
+    "id": 46,
+    "title": "Effective Java",
+    "author": "Joshua Bloch",
+    "genre": "PROGRAMMING",
+    "publicationYear": 2001,
+    "borrowed": false
+  },
+  {
+    "id": 47,
+    "title": "The Lean Startup",
+    "author": "Eric Ries",
+    "genre": "BUSINESS",
+    "publicationYear": 2011,
+    "borrowed": false
+  },
+  {
+    "id": 48,
+    "title": "Zero to One",
+    "author": "Peter Thiel",
+    "genre": "BUSINESS",
+    "publicationYear": 2014,
+    "borrowed": false
+  },
+  {
+    "id": 49,
+    "title": "Good to Great",
+    "author": "Jim Collins",
+    "genre": "BUSINESS",
+    "publicationYear": 2001,
+    "borrowed": false
+  },
+  {
+    "id": 50,
+    "title": "The Hard Thing About Hard Things",
+    "author": "Ben Horowitz",
+    "genre": "BUSINESS",
+    "publicationYear": 2014,
+    "borrowed": false
+  },
+  {
+    "id": 51,
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "genre": "BUSINESS",
+    "publicationYear": 2018,
+    "borrowed": false
+  },
+  {
+    "id": 52,
+    "title": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "genre": "PSYCHOLOGY",
+    "publicationYear": 2011,
+    "borrowed": false
+  },
+  {
+    "id": 53,
+    "title": "Influence",
+    "author": "Robert Cialdini",
+    "genre": "PSYCHOLOGY",
+    "publicationYear": 1984,
+    "borrowed": false
+  },
+  {
+    "id": 54,
+    "title": "Man's Search for Meaning",
+    "author": "Viktor Frankl",
+    "genre": "PSYCHOLOGY",
+    "publicationYear": 1946,
+    "borrowed": false
+  },
+  {
+    "id": 55,
+    "title": "The Body Keeps the Score",
+    "author": "Bessel van der Kolk",
+    "genre": "PSYCHOLOGY",
+    "publicationYear": 2014,
+    "borrowed": false
+  },
+  {
+    "id": 56,
+    "title": "Flow",
+    "author": "Mihaly Csikszentmihalyi",
+    "genre": "PSYCHOLOGY",
+    "publicationYear": 1990,
+    "borrowed": false
+  },
+  {
+    "id": 57,
+    "title": "1984",
+    "author": "George Orwell",
+    "genre": "CLASSIC",
+    "publicationYear": 1949,
+    "borrowed": false
+  },
+  {
+    "id": 58,
+    "title": "Animal Farm",
+    "author": "George Orwell",
+    "genre": "CLASSIC",
+    "publicationYear": 1945,
+    "borrowed": false
+  },
+  {
+    "id": 59,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "genre": "CLASSIC",
+    "publicationYear": 1925,
+    "borrowed": false
+  },
+  {
+    "id": 60,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "genre": "CLASSIC",
+    "publicationYear": 1960,
+    "borrowed": false
+  },
+  {
+    "id": 61,
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
+    "genre": "CLASSIC",
+    "publicationYear": 1851,
+    "borrowed": false
+  },
+  {
+    "id": 62,
+    "title": "The Hunger Games",
+    "author": "Suzanne Collins",
+    "genre": "YOUNG_ADULT",
+    "publicationYear": 2008,
+    "borrowed": false
+  },
+  {
+    "id": 63,
+    "title": "Catching Fire",
+    "author": "Suzanne Collins",
+    "genre": "YOUNG_ADULT",
+    "publicationYear": 2009,
+    "borrowed": false
+  },
+  {
+    "id": 64,
+    "title": "Mockingjay",
+    "author": "Suzanne Collins",
+    "genre": "YOUNG_ADULT",
+    "publicationYear": 2010,
+    "borrowed": false
+  },
+  {
+    "id": 65,
+    "title": "The Fault in Our Stars",
+    "author": "John Green",
+    "genre": "YOUNG_ADULT",
+    "publicationYear": 2012,
+    "borrowed": false
+  },
+  {
+    "id": 66,
+    "title": "Divergent",
+    "author": "Veronica Roth",
+    "genre": "YOUNG_ADULT",
+    "publicationYear": 2011,
+    "borrowed": false
+  },
+  {
+    "id": 67,
+    "title": "A Brief History of Time",
+    "author": "Stephen Hawking",
+    "genre": "SCIENCE",
+    "publicationYear": 1988,
+    "borrowed": false
+  },
+  {
+    "id": 68,
+    "title": "Cosmos",
+    "author": "Carl Sagan",
+    "genre": "SCIENCE",
+    "publicationYear": 1980,
+    "borrowed": false
+  },
+  {
+    "id": 69,
+    "title": "The Selfish Gene",
+    "author": "Richard Dawkins",
+    "genre": "SCIENCE",
+    "publicationYear": 1976,
+    "borrowed": false
+  },
+  {
+    "id": 70,
+    "title": "The Gene",
+    "author": "Siddhartha Mukherjee",
+    "genre": "SCIENCE",
+    "publicationYear": 2016,
+    "borrowed": false
+  },
+  {
+    "id": 71,
+    "title": "Silent Spring",
+    "author": "Rachel Carson",
+    "genre": "SCIENCE",
+    "publicationYear": 1962,
+    "borrowed": false
+  },
+  {
+    "id": 72,
+    "title": "Steve Jobs",
+    "author": "Walter Isaacson",
+    "genre": "BIOGRAPHY",
+    "publicationYear": 2011,
+    "borrowed": false
+  },
+  {
+    "id": 73,
+    "title": "Long Walk to Freedom",
+    "author": "Nelson Mandela",
+    "genre": "BIOGRAPHY",
+    "publicationYear": 1994,
+    "borrowed": false
+  },
+  {
+    "id": 74,
+    "title": "The Diary of a Young Girl",
+    "author": "Anne Frank",
+    "genre": "BIOGRAPHY",
+    "publicationYear": 1947,
+    "borrowed": false
+  },
+  {
+    "id": 75,
+    "title": "Einstein",
+    "author": "Walter Isaacson",
+    "genre": "BIOGRAPHY",
+    "publicationYear": 2007,
+    "borrowed": false
+  },
+  {
+    "id": 76,
+    "title": "Becoming",
+    "author": "Michelle Obama",
+    "genre": "BIOGRAPHY",
+    "publicationYear": 2018,
+    "borrowed": false
+  },
+  {
+    "id": 77,
+    "title": "Meditations",
+    "author": "Marcus Aurelius",
+    "genre": "PHILOSOPHY",
+    "publicationYear": 180,
+    "borrowed": false
+  },
+  {
+    "id": 78,
+    "title": "The Republic",
+    "author": "Plato",
+    "genre": "PHILOSOPHY",
+    "publicationYear": -380,
+    "borrowed": false
+  },
+  {
+    "id": 79,
+    "title": "Beyond Good and Evil",
+    "author": "Friedrich Nietzsche",
+    "genre": "PHILOSOPHY",
+    "publicationYear": 1886,
+    "borrowed": false
+  },
+  {
+    "id": 80,
+    "title": "The Prince",
+    "author": "Niccolò Machiavelli",
+    "genre": "PHILOSOPHY",
+    "publicationYear": 1532,
+    "borrowed": false
+  },
+  {
+    "id": 81,
+    "title": "Thus Spoke Zarathustra",
+    "author": "Friedrich Nietzsche",
+    "genre": "PHILOSOPHY",
+    "publicationYear": 1883,
+    "borrowed": false
+  }
+]
+
