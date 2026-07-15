@@ -1,0 +1,30 @@
+package org.example.models
+
+enum class Genre {
+    FICTION,
+    FANTASY,
+    SCIENCE_FICTION,
+    DYSTOPIAN,
+    MYSTERY,
+    THRILLER,
+    HORROR,
+    ROMANCE,
+    HISTORICAL_FICTION,
+    ADVENTURE,
+    CLASSIC,
+    YOUNG_ADULT,
+    BIOGRAPHY,
+    AUTOBIOGRAPHY,
+    MEMOIR,
+    SELF_HELP,
+    BUSINESS,
+    PSYCHOLOGY,
+    PHILOSOPHY,
+    SCIENCE,
+    TECHNOLOGY,
+    PROGRAMMING,
+    HISTORY,
+    RELIGION,
+    POETRY
+}
+

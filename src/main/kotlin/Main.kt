@@ -1,7 +1,9 @@
 package org.example
 
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+import org.example.models.Book
+import org.example.services.loadBookList
+
 fun main() {
-    println("Hello Library!")
+    val bookList: MutableList<Book> = loadBookList()
 }
+
