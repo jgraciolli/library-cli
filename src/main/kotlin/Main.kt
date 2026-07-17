@@ -1,9 +1,57 @@
 package org.example
 
-import org.example.models.Book
 import org.example.services.loadBookList
+import org.example.services.showBookList
+import org.example.services.validateUserAnswer
+
+val menuAnswers = listOf(1, 2, 3, 4, 5, 6, 7, 8)
 
 fun main() {
-    val bookList: MutableList<Book> = loadBookList()
+    println("=============================================================")
+    println("                  LIBRARY MANAGEMENT SYSTEM")
+    println("=============================================================")
+    println()
+    println("Welcome!")
+
+    loadBookList()
+    var option: Int? = 0
+
+    while (option != 8) {
+        option = handleMenu()
+
+        when (option) {
+            1 -> showBookList()
+            2 -> println("Still in development...")
+            3 -> println("Still in development...")
+            4 -> println("Still in development...")
+            5 -> println("Still in development...")
+            6 -> println("Still in development...")
+            7 -> println("Still in development...")
+        }
+
+        println()
+    }
+
+    println("Shutting system down...")
+}
+
+fun handleMenu(): Int? {
+    println("What would you like to do?")
+    println()
+    println(" [1] List Books")
+    println(" [2] Borrow Book")
+    println(" [3] Return Book")
+    println(" [4] Search Book")
+    println(" [5] Register Book")
+    println(" [6] Delete Book")
+    println(" [7] View Statistics")
+    println(" [8] Exit")
+    println()
+    println("-------------------------------------------------------------")
+    print("Select an option: ")
+
+    val input = validateUserAnswer(menuAnswers)
+
+    return input
 }
 
